@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Merriweather', serif;
+    background-color: ghostwhite;
+}
+.navbar {
+    padding: 0.5rem 0rem 0rem;
+}
+#header-nav {
+    background-color: pink;
+}
+#brandname {
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;
+}
+.navbar-toggler {
+    margin-right: 1rem;
+}
+#dropdownmenu {
+    background-color: mistyrose;
+}
+hr {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2 {
+    margin-top: 8px;
+}
+section > div:first-child {
+    font-weight: 600;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+.menu-item {
+    border: 1px solid black;
+    background-color: lightcyan;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+
+
